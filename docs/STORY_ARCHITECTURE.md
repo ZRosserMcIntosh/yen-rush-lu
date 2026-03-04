@@ -117,6 +117,25 @@ Players should finish the game and argue:
 "Shepherd was a monster." vs "Shepherd was trying to save the others."
 If both sides have evidence, you've nailed it.
 
+### The Balance Test
+
+If Shepherd is too right, players justify him. He becomes an antihero.
+If Shepherd is too wrong, players dismiss him. He becomes a cartoon.
+The sweet spot is this:
+
+**He saves them. Multiple times. Genuinely.**
+**He protects them. Genuinely.**
+**He loves them. Genuinely.**
+**And he still makes the choice.**
+
+That complexity creates lasting debate.
+If people argue about him for years, we win.
+
+The litmus test for every Shepherd scene:
+Can you read this scene and believe he loves these kids? → Yes.
+Can you read this scene and believe he'd sacrifice one of them? → Also yes.
+If either answer is "no," rewrite the scene.
+
 ### Shepherd's Defining Lines:
 - Chapter 3: "You've got good kids, Drew. Hold onto that."
 - Chapter 11: "Sometimes protecting people means making choices they won't understand."
@@ -124,6 +143,32 @@ If both sides have evidence, you've nailed it.
 - Chapter 26: "This was always going to happen."
 - Chapter 50: "I did what you couldn't. That's not betrayal. That's burden."
 - Chapter 85: (if confronted with Drew's words) "...He would have understood. Eventually."
+
+### The Composure Rule
+
+**Shepherd must NEVER:**
+- ❌ Raise his voice
+- ❌ Monologue dramatically
+- ❌ Snarl, sneer, or gloat
+- ❌ Lose composure in a theatrical way
+- ❌ Become a cartoon villain — ever, in any chapter, for any reason
+
+**Shepherd must ALWAYS feel like:**
+A man who believes he did the responsible thing.
+
+His calm is what terrifies. If he ever breaks character — if he ever
+becomes theatrically evil — the spell shatters and he becomes dismissable.
+
+The audience must never be able to fully hate him.
+They must be *uneasy* around him. That's worse.
+
+Even in Chapter 85. *Especially* in Chapter 85.
+When confronted with everything he's done, Shepherd does not crack.
+He doesn't apologize. He doesn't justify loudly.
+He says something quiet that sounds almost like wisdom.
+And the player has to sit with the fact that it *almost makes sense*.
+
+That "almost" is the horror.
 
 ### The Mirror Moment
 
@@ -732,6 +777,33 @@ Living with loss. The siblings fracture and slowly, painfully, rebuild.
 Grief doesn't heal in a straight line.
 It misfires. It blames. It hardens. It nearly destroys.
 
+### The Sustainability Rule
+
+40 chapters of grief will destroy player engagement if it's all the same register.
+This is the longest arc. It's also the most dangerous one — not narratively, but structurally.
+If emotional weight is constant, it becomes wallpaper. The player stops feeling.
+
+**Every 3-4 heavy chapters MUST be followed by breathing room:**
+
+* **Mundane tasks.** Cooking. Mending. Building. Something with your hands.
+  Not metaphorical. Literal. The player should chop wood or hang laundry
+  and feel the quiet relief of doing something that isn't grief.
+* **Moments of levity.** Yen says something accidentally funny. Lu rolls her eyes.
+  Rush laughs before he remembers he's not supposed to. That guilt-laugh is real.
+* **Beauty.** A sunrise. A field. Water. Something the world offers without asking.
+  Drew would have pointed it out. Now someone else does. Or nobody does,
+  and the beauty just sits there, unnarrated, and the player notices it themselves.
+* **Quiet wins.** A meal that doesn't burn. A rope tied right. A night where nobody cries.
+  Not triumph. Just Tuesday. And Tuesday being enough.
+* **Non-dialogue gameplay.** Exploration. Puzzles. Something mechanical.
+  The player needs to use a different part of their brain
+  or the emotional muscles atrophy from overuse.
+
+**The rhythm is: wound, breathe, wound, breathe, wound deeper, breathe longer.**
+**Not: wound, wound, wound, wound, wound.**
+
+Arc IV should feel like weather — storms and clearing, not a single endless rain.
+
 ### The Volatile Structure
 
 **Remember: These are all children.**
@@ -795,7 +867,12 @@ She just knows Drew isn't coming back, and nobody will explain why.
 - Yen, older now by the story's logic, says: "Drew would have laughed at this part."
   Not sad. Just true. And somehow that's okay.
 
-### The Almost-Unforgivable Choice (Chapter 45)
+### The Almost-Unforgivable Choice (Chapter 45) ⭐ THE REAL CENTER OF THE GAME
+
+**Chapter 27 is the wound. Chapter 45 is the mirror.**
+
+Chapter 27 happens *to* the player. Chapter 45 happens *because of* the player.
+That's why 45 is the real center. It's where the game becomes personal.
 
 The centerpiece of Arc IV.
 
@@ -809,6 +886,17 @@ The choice is:
 "She slows us down." (Shepherd's logic. Efficiency. Survival.)
 vs.
 "She's my sister." (Drew's logic. Love over math.)
+
+**THE SUBTLETY RULE:**
+This choice must NOT feel like a moral test.
+It must feel like common sense vs. sentiment.
+The Shepherd path must feel *reasonable*. Defensible. Even smart.
+If the player can tell which answer is "the good one," we've failed.
+If the player pauses — genuinely unsure — we've succeeded.
+
+No swelling music. No dramatic framing. No "THIS IS THE BIG CHOICE" energy.
+Just a moment. A decision. Made under pressure.
+The player won't realize it was the hinge until much later.
 
 If the player chooses Shepherd's path:
 Yen doesn't cry. She just looks at Rush.
@@ -900,6 +988,14 @@ The only time in the entire game it plays whole.
 
 Because the siblings finished it.
 
+**THE RESTRAINT RULE:**
+Full arrangement does not mean orchestral explosion.
+It means *finished*. Quietly finished.
+Same instrument. Same tempo. Same register.
+Just... all the notes are there now.
+The difference between incomplete and complete should be felt, not announced.
+If it swells, it becomes sentiment. If it simply *completes*, it becomes truth.
+
 ---
 
 ## The Death Scene Rules
@@ -943,6 +1039,11 @@ One shoe half-untied.
 He was going to tie it.
 He was going to do a hundred things.
 He didn't get to any of them.
+
+**DO NOT ADD MORE DETAILS.**
+The shoe is enough. It's mundane. It's accidental. It's human.
+More details dilute it. One grounding object is devastating.
+Two is a list. A list is craft, not grief.
 
 ---
 
@@ -1058,7 +1159,7 @@ Both are legitimate. But one cuts deeper.
 | 31–50 | The rushlight theme, alone. Small. Flickering. |
 | 51–70 | The rushlight theme grows. Other instruments join. Still small, but less alone. |
 | 71–99 | Fuller. Richer. Drew's notes woven in — not as melody, but as harmony. |
-| 100 | **Drew's theme plays complete for the first and only time.** All notes. Full arrangement. Because the siblings finished it. |
+| 100 | **Drew's theme plays complete for the first and only time.** All notes. Same instrument. Quietly finished. Not an orchestral swell — just complete. |
 
 ---
 
@@ -1084,6 +1185,7 @@ Not to the characters. To the player.
 * Have you told someone what they mean to you, or are you waiting for tomorrow?
 * Are you living the way you would if you knew there was no "later"?
 * When grief came for you, did you choose kindness or efficiency?
+* Do you sometimes sound like Shepherd and tell yourself it's wisdom?
 
 The game never asks these directly.
 
@@ -1096,6 +1198,48 @@ And that's the "day off" effect.
 Not sadness.
 
 *Recognition.*
+
+### The Real Mirror
+
+The existential hit is NOT: "Everyone dies."
+
+It IS: **"I've already made that choice before."**
+
+Adults won't rethink their lives because Drew died.
+They'll rethink their lives because:
+
+* They chose not to promise.
+* They chose logic over love in Chapter 45.
+* They realized they sound like Shepherd sometimes.
+* They recognized themselves in the math.
+
+The mirror isn't Drew's death. The mirror is the player's own history.
+
+### What We Want Them To Do
+
+One thing. Just one.
+
+**Call someone.**
+
+Not to say something profound. Not to deliver a speech.
+Just to say "I was thinking about you." And hang up.
+
+That's it. That's the whole thing.
+
+Drew didn't die mid-speech. He died mid-sentence. Mid-plan. Mid-tomorrow.
+Every adult who finishes this game has someone they've been meaning to call.
+
+Arc V must be subtly tuned toward this without ever saying it:
+* Rush reaches out to someone he'd been avoiding.
+* Lu writes something she'll never send — then sends it.
+* Yen asks about someone they haven't talked about in a long time.
+* The game's final optional Kimiru encounter: "The ones still here are still here. For now."
+
+Not a sermon. Not a prompt. Just the world of the game gently modeling
+the thing we hope the player does when they put the controller down.
+
+If one person finishes this game and calls their brother —
+the whole project was worth it.
 
 ---
 
