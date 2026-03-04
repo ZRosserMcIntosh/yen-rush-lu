@@ -31,6 +31,11 @@ public class CharacterManager {
         yen.setColor(0.45f, 0.45f, 0.3f);
         register(yen);
 
+        // Shepherd — trusted family friend. Drew's mentor. The uncomfortable mirror.
+        Character shepherd = new Character("shepherd", "Shepherd");
+        shepherd.setColor(0.35f, 0.3f, 0.25f); // Warm brown, close to Drew's. They look alike from far away.
+        register(shepherd);
+
         // Kimiru
         Character kimiru = new Character("kimiru", "Kimiru");
         kimiru.setColor(0.1f, 0.1f, 0.12f); // Near black, like his fur

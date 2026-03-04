@@ -9,7 +9,7 @@
       "music": "market_folk",
       "ambience": "crowd_chatter_bells",
       "mood": "warm",
-      "characters": ["drew", "rush", "lu", "yen"],
+      "characters": ["drew", "rush", "lu", "yen", "shepherd"],
       "dialogue": [
         {
           "id": "arrival_1",
@@ -28,33 +28,131 @@
         {
           "id": "arrival_3",
           "speaker": "drew",
-          "text": "Okay. Rules. Nobody wanders off alone. We stick together, we meet back at the fountain in one hour. Got it?",
-          "emotion": "responsible",
+          "text": "Hold on — there he is.",
+          "emotion": "lighting_up",
           "next": "arrival_4"
         },
         {
           "id": "arrival_4",
-          "speaker": "lu",
-          "text": "Yes, dad.",
-          "emotion": "teasing",
+          "speaker": null,
+          "text": "Drew waves. Across the crowd, a man waves back. Tall. Steady. The kind of person whose presence makes a room feel organized. He moves through the market like he knows every stall by name.",
+          "emotion": "neutral",
           "next": "arrival_5"
         },
         {
           "id": "arrival_5",
           "speaker": "drew",
-          "text": "Ha ha. Here.",
-          "emotion": "smirking",
-          "next": "arrival_6"
+          "text": "Shepherd! Over here!",
+          "emotion": "happy",
+          "next": "shepherd_intro_1"
         },
         {
-          "id": "arrival_6",
+          "id": "shepherd_intro_1",
+          "speaker": "shepherd",
+          "text": "There they are. The whole crew.",
+          "emotion": "warm",
+          "next": "shepherd_intro_2"
+        },
+        {
+          "id": "shepherd_intro_2",
+          "speaker": null,
+          "text": "He ruffles Yen's hair. She ducks and giggles. He nods at Lu — respectful, not condescending. He shakes Rush's hand like Rush is an adult. Then he clasps Drew's shoulder, and Drew clasps his. Brothers in everything but blood.",
+          "emotion": "neutral",
+          "next": "shepherd_intro_3"
+        },
+        {
+          "id": "shepherd_intro_3",
+          "speaker": "drew",
+          "text": "Shepherd's the one who told me about this market. He knows everyone here.",
+          "emotion": "admiring",
+          "next": "shepherd_intro_4"
+        },
+        {
+          "id": "shepherd_intro_4",
+          "speaker": "shepherd",
+          "text": "Not everyone. But enough to find the good stuff. Who wants cotton candy?",
+          "emotion": "grinning",
+          "next": "shepherd_intro_5"
+        },
+        {
+          "id": "shepherd_intro_5",
+          "speaker": "yen",
+          "text": "ME ME ME ME ME—",
+          "emotion": "ecstatic",
+          "next": "shepherd_intro_6"
+        },
+        {
+          "id": "shepherd_intro_6",
+          "speaker": null,
+          "text": "Shepherd buys Yen cotton candy without being asked. Carries Lu's bag when it gets heavy. Walks beside Drew, and they fall into conversation like they've been mid-sentence for years.",
+          "emotion": "neutral",
+          "next": "shepherd_intro_7"
+        },
+        {
+          "id": "shepherd_intro_7",
+          "speaker": "shepherd",
+          "text": "You've got good kids, Drew. Hold onto that.",
+          "emotion": "sincere",
+          "next": "shepherd_intro_8"
+        },
+        {
+          "id": "shepherd_intro_8",
+          "speaker": "drew",
+          "text": "They're not mine. I'm just the oldest.",
+          "emotion": "modest",
+          "next": "shepherd_intro_9"
+        },
+        {
+          "id": "shepherd_intro_9",
+          "speaker": "shepherd",
+          "text": "Same thing.",
+          "emotion": "knowing",
+          "next": "shepherd_intro_10"
+        },
+        {
+          "id": "shepherd_intro_10",
+          "speaker": null,
+          "text": "Drew smiles at that. The kind of smile that comes from being seen by someone you respect.",
+          "emotion": "neutral",
+          "next": "rules_1"
+        },
+        {
+          "id": "rules_1",
+          "speaker": "drew",
+          "text": "Okay. Rules. Nobody wanders off alone. We stick together, we meet back at the fountain in one hour. Got it?",
+          "emotion": "responsible",
+          "next": "rules_2"
+        },
+        {
+          "id": "rules_2",
+          "speaker": "lu",
+          "text": "Yes, dad.",
+          "emotion": "teasing",
+          "next": "rules_3"
+        },
+        {
+          "id": "rules_3",
+          "speaker": "shepherd",
+          "text": "Listen to your brother. He's smarter than he looks.",
+          "emotion": "teasing_drew",
+          "next": "rules_4"
+        },
+        {
+          "id": "rules_4",
+          "speaker": "drew",
+          "text": "Thanks for that.",
+          "emotion": "eye_roll_affectionate",
+          "next": "money_scene"
+        },
+        {
+          "id": "money_scene",
           "speaker": null,
           "text": "Drew pulls out some crumpled bills. Counts them carefully. Splits them.",
           "emotion": "neutral",
-          "next": "arrival_7"
+          "next": "money_2"
         },
         {
-          "id": "arrival_7",
+          "id": "money_2",
           "speaker": "drew",
           "text": "Rush — here's enough for one thing. Choose wisely.",
           "emotion": "trusting",
@@ -125,9 +223,9 @@
         {
           "id": "bought_for_lu_5",
           "speaker": null,
-          "text": "It is, though. She puts it on immediately. Drew watches from across the stall. He doesn't say anything. He doesn't need to.",
+          "text": "It is, though. She puts it on immediately. Drew watches from across the stall. Shepherd leans over to Drew and says something Rush can't hear. Drew nods. Smiles.",
           "emotion": "neutral",
-          "next": "lantern_stall"
+          "next": "walking_scene"
         },
         {
           "id": "bought_for_self",
@@ -138,10 +236,17 @@
         },
         {
           "id": "bought_for_self_2",
-          "speaker": "drew",
-          "text": "Good choice. Take care of it and it'll take care of you.",
+          "speaker": "shepherd",
+          "text": "Good choice. A tool, not a toy. I had one just like that at your age.",
           "emotion": "approving",
-          "next": "lantern_stall"
+          "next": "bought_for_self_3"
+        },
+        {
+          "id": "bought_for_self_3",
+          "speaker": "drew",
+          "text": "Take care of it.",
+          "emotion": "approving",
+          "next": "walking_scene"
         },
         {
           "id": "saved_money",
@@ -155,7 +260,86 @@
           "speaker": "drew",
           "text": "Smart. Patience is its own reward, Rush.",
           "emotion": "approving",
-          "next": "lantern_stall"
+          "next": "saved_money_3"
+        },
+        {
+          "id": "saved_money_3",
+          "speaker": "shepherd",
+          "text": "Discipline. I like that.",
+          "emotion": "noting_it",
+          "next": "walking_scene"
+        }
+      ]
+    },
+    "walking_scene": {
+      "background": "market_stalls",
+      "music": "market_folk",
+      "ambience": "crowd_chatter",
+      "mood": "warm",
+      "characters": ["drew", "rush", "lu", "yen", "shepherd"],
+      "dialogue": [
+        {
+          "id": "walking_scene",
+          "speaker": null,
+          "text": "Drew and Shepherd walk ahead. The kids trail behind. From here, Rush can hear fragments of their conversation. Easy. Familiar. The way people talk when they've known each other a long time.",
+          "emotion": "neutral",
+          "next": "walking_2"
+        },
+        {
+          "id": "walking_2",
+          "speaker": "shepherd",
+          "text": "...and you're handling it? All of it?",
+          "emotion": "concerned",
+          "next": "walking_3"
+        },
+        {
+          "id": "walking_3",
+          "speaker": "drew",
+          "text": "I'm managing.",
+          "emotion": "understating",
+          "next": "walking_4"
+        },
+        {
+          "id": "walking_4",
+          "speaker": "shepherd",
+          "text": "You don't have to manage alone. That's why I'm here.",
+          "emotion": "firm_kindness",
+          "next": "walking_5"
+        },
+        {
+          "id": "walking_5",
+          "speaker": null,
+          "text": "Drew puts his hand on Shepherd's arm. Brief. Grateful. The kind of contact that says 'I know' without needing to.",
+          "emotion": "neutral",
+          "next": "walking_6"
+        },
+        {
+          "id": "walking_6",
+          "speaker": "lu",
+          "text": "Are they always like this?",
+          "emotion": "observing",
+          "next": "walking_7"
+        },
+        {
+          "id": "walking_7",
+          "speaker": "rush",
+          "text": "Like what?",
+          "emotion": "not_getting_it",
+          "next": "walking_8"
+        },
+        {
+          "id": "walking_8",
+          "speaker": "lu",
+          "text": "Like... brothers.",
+          "emotion": "quiet",
+          "next": "walking_9"
+        },
+        {
+          "id": "walking_9",
+          "speaker": null,
+          "text": "She's right. They are. Drew has a brother that isn't Rush, and Rush never thought about what that means until this moment.",
+          "emotion": "neutral",
+          "next": "lantern_stall_1"
         }
       ]
     },
@@ -164,10 +348,10 @@
       "music": "market_folk_quieter",
       "ambience": "crowd_distant",
       "mood": "warm",
-      "characters": ["drew", "rush", "lu", "yen", "kimiru"],
+      "characters": ["drew", "rush", "lu", "yen", "shepherd", "kimiru"],
       "dialogue": [
         {
-          "id": "lantern_stall",
+          "id": "lantern_stall_1",
           "speaker": null,
           "text": "The stall is at the end of the row. Easy to miss. An old woman sits behind a table covered in lanterns — brass ones, glass ones, paper ones. All shapes. All sizes.",
           "emotion": "neutral",
@@ -183,28 +367,28 @@
         {
           "id": "lantern_3",
           "speaker": null,
-          "text": "The old woman looks up. Her eyes find Drew immediately. She looks at him the way you look at something you recognize.",
+          "text": "The old woman looks up. Her eyes find Drew immediately. She looks at him the way you look at something you recognize but haven't seen in a long time.",
           "emotion": "neutral",
           "next": "lantern_4"
         },
         {
           "id": "lantern_4",
-          "speaker": "lu",
-          "text": "Drew, she's staring at you.",
-          "emotion": "uncomfortable",
+          "speaker": "shepherd",
+          "text": "I know this stall. She's been here for years. Good stuff.",
+          "emotion": "casual",
           "next": "lantern_5"
         },
         {
           "id": "lantern_5",
-          "speaker": "drew",
-          "text": "She's probably just... yeah. That's a little weird.",
-          "emotion": "nervous_laugh",
+          "speaker": null,
+          "text": "The old woman's eyes don't move from Drew. Shepherd doesn't notice. Or doesn't show it.",
+          "emotion": "neutral",
           "next": "lantern_6"
         },
         {
           "id": "lantern_6",
           "speaker": null,
-          "text": "Drew approaches the table anyway. He picks up a small, plain thing. Not a lantern exactly. A holder — iron, simple, with a groove for a wick.",
+          "text": "Drew approaches the table. He picks up a small, plain thing. Not a lantern exactly. A holder — iron, simple, with a groove for a wick.",
           "emotion": "neutral",
           "next": "lantern_7"
         },
@@ -218,7 +402,7 @@
         {
           "id": "lantern_8",
           "speaker": null,
-          "text": "The old woman smiles. It's not a warm smile. It's a knowing one.",
+          "text": "The old woman smiles. Not warm. Knowing.",
           "emotion": "neutral",
           "next": "lantern_9"
         },
@@ -239,21 +423,21 @@
         {
           "id": "lantern_11",
           "speaker": null,
-          "text": "She names a price. Drew pays without haggling. The others watch.",
+          "text": "She names a price. Drew pays without haggling.",
           "emotion": "neutral",
           "next": "lantern_12"
         },
         {
           "id": "lantern_12",
-          "speaker": "rush",
-          "text": "Drew, that thing is kind of ugly.",
-          "emotion": "honest",
+          "speaker": "shepherd",
+          "text": "What do you want that old thing for?",
+          "emotion": "bemused",
           "next": "lantern_13"
         },
         {
           "id": "lantern_13",
           "speaker": "drew",
-          "text": "Yeah. But think about it. Somebody made this because they needed light and couldn't afford it. They used what they had. Animal fat. A reed. And they made it work.",
+          "text": "Think about it. Somebody made this because they needed light and couldn't afford it. They used what they had. Animal fat. A reed. And they made it work.",
           "emotion": "thoughtful",
           "next": "lantern_14"
         },
@@ -266,8 +450,15 @@
         },
         {
           "id": "lantern_15",
+          "speaker": "shepherd",
+          "text": "...",
+          "emotion": "considering",
+          "next": "lantern_16"
+        },
+        {
+          "id": "lantern_16",
           "speaker": null,
-          "text": "He holds it up. Iron and fat and a reed. The ugliest light in the market. Drew looks at it like it's the only thing worth buying.",
+          "text": "Shepherd looks at Drew. Something passes across his face — not mockery. Not agreement. Recognition. Like he's seeing something in Drew he already knew was there.",
           "emotion": "neutral",
           "next": "kimiru_woman"
         },
@@ -287,31 +478,17 @@
         },
         {
           "id": "kimiru_woman_3",
-          "speaker": "rush",
-          "text": "Is she... talking to the cat?",
-          "emotion": "confused",
+          "speaker": null,
+          "text": "Kimiru listens. His ears flatten. Then he jumps down and walks away without looking back.",
+          "emotion": "neutral",
           "next": "kimiru_woman_4"
         },
         {
           "id": "kimiru_woman_4",
-          "speaker": "lu",
-          "text": "People talk to cats, Rush.",
-          "emotion": "dismissive",
-          "next": "kimiru_woman_5"
-        },
-        {
-          "id": "kimiru_woman_5",
-          "speaker": null,
-          "text": "Kimiru listens. His ears flatten. Then he jumps down and walks away without looking back.",
-          "emotion": "neutral",
-          "next": "kimiru_woman_6"
-        },
-        {
-          "id": "kimiru_woman_6",
           "speaker": null,
           "text": "The old woman watches Drew walk away with the rushlight. She mouths two words. You can't read them. You want to.",
           "emotion": "neutral",
-          "next": "heading_home"
+          "next": "heading_home_1"
         }
       ]
     },
@@ -320,12 +497,12 @@
       "music": "gentle_acoustic",
       "ambience": "evening_birds",
       "mood": "warm",
-      "characters": ["drew", "rush", "lu", "yen"],
+      "characters": ["drew", "rush", "lu", "yen", "shepherd"],
       "dialogue": [
         {
-          "id": "heading_home",
+          "id": "heading_home_1",
           "speaker": null,
-          "text": "Walking home. The sun is low. Drew carries the rushlight in his jacket pocket.",
+          "text": "Walking home. The sun is low. Drew carries the rushlight in his jacket pocket. Shepherd walks beside him. The kids trail behind, tired and full of market food.",
           "emotion": "neutral",
           "next": "home_2"
         },
@@ -346,7 +523,7 @@
         {
           "id": "home_4",
           "speaker": null,
-          "text": "He crouches. Yen climbs onto his back. This is a thing they do. This is a thing that happens all the time.",
+          "text": "He crouches. Yen climbs onto his back. Shepherd takes Drew's bags without being asked. This is a thing they do. A system built from years.",
           "emotion": "neutral",
           "next": "home_5"
         },
@@ -366,20 +543,37 @@
         },
         {
           "id": "home_7",
-          "speaker": null,
-          "text": "He says it lightly. But his hand goes to the pocket with the rushlight. And stays there.",
-          "emotion": "neutral",
+          "speaker": "shepherd",
+          "text": "She's been there a long time. She looks at everyone like that.",
+          "emotion": "dismissive_reassuring",
           "next": "home_8"
         },
         {
           "id": "home_8",
           "speaker": null,
-          "text": "Four kids walking home in the last light. The kind of evening that feels like it could last forever. It can't. Nothing can.",
+          "text": "Drew's hand goes to the pocket with the rushlight. And stays there. Shepherd notices. Says nothing.",
+          "emotion": "neutral",
+          "next": "home_9"
+        },
+        {
+          "id": "home_9",
+          "speaker": null,
+          "text": "Five people walking home in the last light. Four kids and a man who carries their bags and knows their names and calls Drew 'brother' without it being strange.",
+          "emotion": "neutral",
+          "next": "home_10"
+        },
+        {
+          "id": "home_10",
+          "speaker": null,
+          "text": "The kind of evening that feels like it could last forever. It can't. Nothing can. But they don't know that yet.",
           "emotion": "neutral",
           "effects": [
             { "type": "ADD_MEMORY", "target": "drew_bought_the_rushlight" },
             { "type": "ADD_MEMORY", "target": "old_woman_stared_at_drew" },
+            { "type": "ADD_MEMORY", "target": "shepherd_at_the_market" },
             { "type": "SET_FLAG", "target": "has_rushlight", "value": true },
+            { "type": "SET_FLAG", "target": "met_shepherd", "value": true },
+            { "type": "ADJUST_RELATIONSHIP", "target": "shepherd", "value": 10 },
             { "type": "SET_FLAG", "target": "chapter_3_complete", "value": true }
           ]
         }

@@ -218,6 +218,8 @@ public class DialogueRenderer {
             case "rush" -> new float[]{0.4f, 0.7f, 0.9f};
             case "lu", "luisa", "luísa" -> new float[]{0.9f, 0.5f, 0.7f};
             case "yen", "yenevieve" -> new float[]{0.8f, 0.8f, 0.5f};
+            case "shepherd" -> new float[]{0.7f, 0.55f, 0.35f}; // Warm brown. Close to Drew's gold. They look alike from far away.
+            case "kimiru" -> new float[]{0.5f, 0.5f, 0.55f}; // Muted grey-blue. Otherworldly.
             case "narrator" -> new float[]{0.6f, 0.6f, 0.6f};
             default -> new float[]{0.7f, 0.7f, 0.7f};
         };
