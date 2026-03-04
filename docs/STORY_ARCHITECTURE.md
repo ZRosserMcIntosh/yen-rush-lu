@@ -100,6 +100,35 @@ If Shepherd is logic without love, players feel **uneasy**.
 
 That's deeper. That lingers.
 
+### The Archetype Protection Rule
+
+Shepherd is inspired by a real person.
+**Shepherd must not become that person.**
+
+If Shepherd is a coded indictment of one human being, the story shrinks.
+It becomes therapy. It becomes catharsis. It becomes revenge fiction
+wearing literary clothes. And smart players will smell it.
+
+Shepherd must be the **universal archetype**:
+The person who believes **control equals love**.
+The person who chooses **structure over relationship**.
+The person who says "I did this for you" and means it,
+and is still wrong about what "for you" means.
+
+That's bigger than one person.
+That's timeless.
+That survives the author.
+
+**The litmus test:**
+Can someone who has never met the author's ex-wife
+feel Shepherd in their own life? In their own boss,
+their own parent, their own mirror?
+
+If yes: archetype. The story expands.
+If no: portrait. The story shrinks.
+
+**Write the archetype. Burn the portrait.**
+
 ### The Hindsight Test
 
 On a second playthrough, every Shepherd scene must read differently.
@@ -179,6 +208,90 @@ The player must feel the pull of cold logic, of bitterness disguised as strength
 If the player almost becomes the thing that killed Drew…
 
 That's the mirror. That's where adults put the controller down.
+
+---
+
+## Ghost — The Witness
+
+### What Ghost Is
+
+Ghost is not vengeance.
+Ghost is not justice.
+Ghost is not the hero's dark reflection.
+
+Ghost is **grief without speech**.
+
+Ghost appears when truth is near.
+Not to tell anyone what to believe.
+Not to manipulate. Not to instruct. Not to persuade.
+
+Just to be present.
+
+Ghost is the thing that happens when pain refuses to weaponize itself.
+When someone has been wronged and chooses not to turn that wrong into a weapon.
+Not out of weakness. Out of something harder than strength.
+
+### What Ghost Represents
+
+* **Grief that refuses to become revenge.**
+* **Presence without manipulation.**
+* **A refusal to turn pain into control.**
+* **Witness — the act of simply being there when truth surfaces.**
+
+Ghost doesn't fight Shepherd's philosophy with a counter-philosophy.
+Ghost doesn't argue. Ghost doesn't explain.
+Ghost *appears*. And in appearing, forces others to see what they've been avoiding.
+
+That's all. And that's enough.
+
+### What Ghost Must NOT Be
+
+**Ghost must NOT be:**
+- ❌ A martyr
+- ❌ The secret moral superior
+- ❌ Proven right by the narrative
+- ❌ The "quiet good guy"
+- ❌ A self-insert who gets to be correct
+
+If Ghost is always right and always noble and always above it,
+Ghost becomes mythology. Self-mythology. And players will feel it.
+
+**Ghost must be:**
+- ✅ Incomplete
+- ✅ Wrong sometimes
+- ✅ Human
+- ✅ Ambiguous in motive
+- ✅ Present without being explained
+
+Ghost should leave players uncertain.
+Not "is Ghost good or bad?" — that's too simple.
+But: "What does Ghost want? Does Ghost even know?"
+
+### Ghost's Arc
+
+| Phase | Chapters | Presence |
+|-------|----------|----------|
+| Absent | Prologue–15 | Not present. The golden days have no ghost. |
+| Peripheral | 16–20 | A shape at the edge. A feeling. Never confirmed. |
+| Catalyst | 21–24 | Real. Dangerous. But not evil — catalytic. Forces confrontation. |
+| Present | 25–27 | There at the death. Witness. Not actor, not cause — present. |
+| Haunting | 28–50 | Appears to Rush in quiet moments. Never speaks. Never judges. Just there. |
+| Fading | 51–70 | Less frequent. As Rush processes grief, Ghost becomes less needed. |
+| Gone | 71–99 | Absent. The living carry it now. |
+| Epilogue | 100 | A flicker. Maybe. At the edge of the campfire. Or maybe just the light. |
+
+### Ghost's Silence
+
+Ghost has no defining lines.
+
+That's the point.
+
+In a game full of people who talk — Drew teaches, Shepherd justifies,
+Kimiru guides, Rush breaks — Ghost says nothing.
+
+Ghost is the space where words should be and aren't.
+
+And sometimes that silence says more than any of them.
 
 ---
 
@@ -923,6 +1036,37 @@ It asks: **"Are you living in a way that honors the light you were given?"**
 
 Without saying it directly.
 
+### The Tone: Reconnection, Not Resolution
+
+Arc V does not resolve. It reconnects.
+
+The difference matters:
+* **Resolution** says: "It's okay now." (It's never okay. Not fully.)
+* **Reconnection** says: "The line is still there." (That's enough.)
+
+The tone of Arc V should feel like an awkward phone call.
+The one you've been putting off for months.
+
+"Hey. I know it's been a while. I just... I was thinking about you."
+
+"...Yeah. Me too."
+
+Nobody fixes anything. Nobody apologizes perfectly. Nobody delivers a speech.
+They just re-establish that the connection exists. That it survived.
+
+That's the model for every relationship in Arc V:
+Rush and Lu don't have a cathartic reconciliation scene.
+They have a Tuesday where they cook dinner and nobody yells.
+And that's enough.
+
+Yen doesn't deliver wisdom about grief.
+She asks Rush to tell her about Drew. And listens.
+And that's enough.
+
+**The player should feel the same thing:**
+Not "everything is healed."
+But "something is still here."
+
 ### Structure
 
 **71-80: Individual Strengths**
@@ -930,6 +1074,9 @@ Without saying it directly.
 - Rush becomes a leader — but not Drew's kind. His own kind.
 - Lu becomes the strategist, the planner. She carries Drew's pragmatism.
 - Yen becomes the heart. She carries his warmth without knowing it.
+- **Rush reaches out to someone he'd been avoiding.** Not gracefully. Awkwardly.
+  The way real people do. And the other person doesn't make it easy.
+  But the line reconnects.
 
 **81-90: The Reckoning**
 - Shepherd returns. Final confrontation.
@@ -940,12 +1087,17 @@ Without saying it directly.
 - Shepherd, if shown mercy, says nothing for a long time.
   Then: "Drew would have done that."
   And walks away.
+- **Lu writes something she'll never send — then sends it.**
+  Not to Shepherd. To someone from before. A thread left hanging.
 
 **91-99: Resolution**
 - Healing is not forgetting.
 - Scars are not weakness.
 - The siblings carry Drew — not as a wound, but as a light.
 - The rushlight is still lit. Smaller. But still there.
+- **Yen asks about someone they haven't talked about in a long time.**
+  Not Drew. Someone else. Someone the player forgot about.
+  Because life keeps going, and there are always more connections to tend.
 
 ### Chapter 100: "The Last Good Night"
 
@@ -1226,6 +1378,26 @@ Just to say "I was thinking about you." And hang up.
 
 That's it. That's the whole thing.
 
+**What the phone call sounds like:**
+
+"Hey. I know it's been a while."
+
+"...Yeah."
+
+"I just... I was thinking about you. That's all."
+
+"...Me too."
+
+*Click.*
+
+Nobody fixes anything. Nobody apologizes perfectly.
+They just re-establish that the line still exists.
+That it survived.
+
+That's what we're modeling. That tone. That scale.
+Not grand reconciliation. Not tearful forgiveness.
+Just: "You still exist to me. I still exist to you."
+
 Drew didn't die mid-speech. He died mid-sentence. Mid-plan. Mid-tomorrow.
 Every adult who finishes this game has someone they've been meaning to call.
 
@@ -1240,6 +1412,40 @@ the thing we hope the player does when they put the controller down.
 
 If one person finishes this game and calls their brother —
 the whole project was worth it.
+
+---
+
+## The Anti-Therapy Directive
+
+This game is inspired by real loss. Real grief. Real people.
+
+**It must not become therapy.**
+
+The difference:
+* **Therapy** processes *your* pain for *your* benefit.
+* **Art** transforms pain into something that belongs to *everyone*.
+
+If this game is about one divorce, one custody battle, one betrayal —
+it is catharsis. It helps the author. It is small.
+
+If this game is about **power and love** —
+about whether control is ever love,
+about what happens when someone decides for you "for your own good" —
+it is myth. It helps everyone. It is big.
+
+**Rules:**
+1. Shepherd is an archetype, not a portrait. (See: Archetype Protection Rule)
+2. Ghost is ambiguous, not vindicated. (See: Ghost section)
+3. Drew is human, not canonized. Drew was flawed. Drew was incomplete. Drew was *going to be* something. He didn't get there. That's the point.
+4. The author's pain is the *fuel*, not the *destination*. Transform it. Don't transcribe it.
+5. If a scene feels satisfying because it punishes Shepherd, cut it. That's revenge. If a scene feels *uncomfortable* because Shepherd almost makes sense, keep it. That's art.
+
+**The goal is not to be proven right.**
+**The goal is to make people *feel* something they can't dismiss.**
+
+Grief that refuses to become revenge.
+That's the soul of this project.
+Stay there.
 
 ---
 
