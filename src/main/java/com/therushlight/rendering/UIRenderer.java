@@ -71,7 +71,7 @@ public class UIRenderer {
     }
 
     /**
-     * Title screen — "THE RUSHLIGHT" centered, with a tagline and prompt.
+     * Title screen — "ON TIME" centered, with a tagline and prompt.
      */
     public void renderTitleScreen() {
         float sw = window.getWidth();
@@ -80,8 +80,8 @@ public class UIRenderer {
         // Dark warm background
         drawRect(0, 0, sw, sh, 0.03f, 0.02f, 0.02f, 1.0f);
 
-        // Title: THE RUSHLIGHT
-        String title = "THE RUSHLIGHT";
+        // Title: ON TIME
+        String title = "ON TIME";
         float titleScale = 2.5f;
         float titleW = title.length() * CHAR_W * titleScale;
         float titleX = (sw - titleW) / 2;

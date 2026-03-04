@@ -6,7 +6,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * The Rushlight
+ * On Time
+ * After John Milton's poem.
  * "A small light is still a light."
  *
  * A narrative adventure in 100 chapters.
@@ -58,7 +59,7 @@ public class Main {
 
         System.out.println();
         System.out.println("  ╔══════════════════════════════════════╗");
-        System.out.println("  ║         T H E   R U S H L I G H T  ║");
+        System.out.println("  ║             O N   T I M E           ║");
         System.out.println("  ║    \"A small light is still a light\" ║");
         System.out.println("  ║                                      ║");
         System.out.println("  ║          v" + VERSION + "                        ║");

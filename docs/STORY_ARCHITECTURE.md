@@ -1,7 +1,88 @@
-# The Rushlight — Story Architecture v2
+# On Time — Story Architecture v3
+
+> *"Fly envious Time, till thou run out thy race,
+> Call on the lazy leaden-stepping hours..."*
+> — John Milton, *On Time*
 
 > *"A small light is still a light."*
 > For Yen, Rush, and Lu. — YenLu Games
+
+---
+
+## The Title
+
+**On Time** — after John Milton's poem.
+
+Milton's *On Time* is not about clocks.
+It is about time being devoured by eternity.
+About time being temporary.
+About the things that survive it.
+
+The title is not ironic. It is theological in the oldest sense:
+
+**Time is the thing that takes. But it is not the thing that judges.**
+
+What judges is what you did *inside* it.
+What survives is what you passed on — not because of a cosmic reward system,
+but because a child carries your patience, your joke, your half-tied shoe
+into a future you'll never see.
+
+That's the eternity Milton is talking about.
+Not heaven. Not afterlife.
+*Continuation*.
+
+The gold lantern burns fastest.
+But the light it threw still bounces off the walls.
+
+### The Miltonian Spine
+
+Milton's poem quietly informs the thematic structure:
+
+* **Time as something that consumes.** Every era the siblings visit is consumed by time. Every person they meet is already gone. Every civilization they walk through has already fallen.
+* **Love as something that resists consumption.** The rushlight still burns. Drew's lessons still echo. The siblings carry forward what time should have destroyed.
+* **Authority figures who believe they understand timing.** Shepherd. Who calculates. Who plans. Who processes grief in advance. Who believes he can master time through preparation.
+* **Children who don't.** Who live inside time without trying to control it. Who are present in ways adults have forgotten how to be.
+
+### The Question the Title Forces
+
+**Is time the final authority in this story?**
+
+No.
+
+Time is the thing that takes. But something else endures.
+Not God. Not heaven. Not an afterlife.
+Something simpler and harder to name:
+
+The way Drew tied knots lives in Rush's hands.
+The way Drew told stories lives in Yen's voice.
+The way Drew saw people lives in Lu's eyes.
+
+That's not immortality. That's *continuation*.
+And continuation is the only eternity that doesn't require faith.
+
+Kimiru already *is* this answer. He exists outside time.
+He's seen it all before. He knows time devours everything.
+And he still walks beside these children.
+
+That's not humanist and it's not religious.
+It's something older than both:
+The conviction that presence matters even when permanence is impossible.
+
+That's Miltonian. And that's **On Time**.
+
+### What the Player Doesn't Need to Know
+
+The average player does not need to know it's Milton.
+The poem is never quoted in-game.
+No character references it.
+
+But it shapes everything:
+The eras. The pacing. The sense that time is passing.
+The feeling that these moments are being consumed even as you live them.
+The quiet conviction that something survives the consuming.
+
+Players who know Milton will feel the resonance.
+Players who don't will feel it anyway — as atmosphere, as weight, as truth.
 
 ---
 

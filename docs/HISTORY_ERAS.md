@@ -1,4 +1,4 @@
-# The Rushlight — History Eras Bible
+# On Time — History Eras Bible
 
 > *"You do not learn history by being told. You learn it by standing in it."*
 > — Kimiru (never says this aloud; it's his operating principle)
@@ -7,7 +7,7 @@
 
 ## How This Document Works
 
-Each era is a **playable chapter or multi-chapter arc** within The Rushlight.
+Each era is a **playable chapter or multi-chapter arc** within On Time.
 Eras are woven into the Five Arcs — they are not side content or minigames.
 They are the world the siblings travel through, and they shape who the siblings become.
 

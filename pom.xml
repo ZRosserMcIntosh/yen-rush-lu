@@ -9,8 +9,8 @@
     <version>0.1.0</version>
     <packaging>jar</packaging>
 
-    <name>The Rushlight</name>
-    <description>A narrative adventure game — 100 chapters of choices, consequences, and growing up. For Yen, Rush, and Lu.</description>
+    <name>On Time</name>
+    <description>On Time — a narrative adventure game in 100 chapters. After John Milton's poem. For Yen, Rush, and Lu.</description>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>

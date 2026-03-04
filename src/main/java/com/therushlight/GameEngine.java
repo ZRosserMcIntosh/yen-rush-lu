@@ -15,7 +15,7 @@ import static org.lwjgl.glfw.GLFW.*;
  */
 public class GameEngine {
 
-    public static final String TITLE = "The Rushlight";
+    public static final String TITLE = "On Time";
     public static final int WIDTH = 1280;
     public static final int HEIGHT = 720;
     public static final float TARGET_UPS = 60.0f;
