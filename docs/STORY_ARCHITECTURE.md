@@ -90,8 +90,15 @@ Shepherd represents:
 * **Safety through control.** Protect by deciding, not by trusting.
 * **Sacrifice of the few for the many.** Cold math that sounds rational.
 * **A worldview that is defensible in his own head.**
+* **Competence as identity.** He doesn't experience himself as evil. He experiences himself as *the one who does what others can't.*
 
 He is not evil. He is *logical without love*.
+
+**Shepherd admires Drew.** That's critical.
+He doesn't resent Drew. He doesn't envy Drew. He thinks Drew is genuinely good.
+And he has decided that goodness, unguarded, is a threat to survival.
+Shepherd's tragedy is that he loves the thing he's willing to sacrifice.
+He just believes love isn't enough to keep people alive.
 
 Adults must see pieces of themselves in him.
 
@@ -181,6 +188,8 @@ If either answer is "no," rewrite the scene.
 - ❌ Snarl, sneer, or gloat
 - ❌ Lose composure in a theatrical way
 - ❌ Become a cartoon villain — ever, in any chapter, for any reason
+- ❌ Enjoy harm (sadism shrinks him)
+- ❌ Be unfeeling entirely (flatness shrinks him)
 
 **Shepherd must ALWAYS feel like:**
 A man who believes he did the responsible thing.
@@ -198,6 +207,66 @@ He says something quiet that sounds almost like wisdom.
 And the player has to sit with the fact that it *almost makes sense*.
 
 That "almost" is the horror.
+
+### The Hans Landa Principle
+
+Shepherd's horror is not psychopathy. It's **moral detachment**.
+
+The difference:
+* A psychopath doesn't feel. (Flat. Dismissable.)
+* A sadist enjoys it. (Cartoonish. Shrinks.)
+* A morally detached person **feels it and decides it's acceptable.** (Terrifying. Lingers.)
+
+Shepherd should feel like someone who ran the scenario ten times
+before it happened. Not reactive. *Prepared.*
+
+He already lived through Drew's death — in his mind.
+By the time it happens in reality, it's a formality.
+That's why he's composed. He's not suppressing emotion.
+He already processed the emotion. Weeks ago. Alone.
+
+**The calibration:**
+- He doesn't hate Drew. He *admires* Drew.
+- He believes Drew is good.
+- And he still decides Drew is the liability.
+- Because "goodness is inefficient."
+  That's the philosophy that wrecks civilizations.
+  Not malice. Not cruelty. Just the quiet conviction
+  that being right matters more than being kind.
+
+**The Landa behaviors:**
+- Stays conversational during catastrophe.
+- Maintains tone.
+- Doesn't escalate.
+- Doesn't justify loudly.
+- Never raises his heart rate.
+- When Rush is breaking, Shepherd is already past the emotional event.
+
+That contrast — a child screaming over a body while a man stands composed
+because he processed this loss on his own schedule — is the knife.
+
+### Recognition Over Fear
+
+The audience should NOT leave thinking: "Shepherd is a monster."
+
+The audience SHOULD leave thinking:
+* "I've sat across from Shepherd."
+* "I've worked for Shepherd."
+* "I've been married to Shepherd."
+* "I've *been* Shepherd."
+
+**Fear fades. Recognition lingers.**
+
+Fear is a movie experience. Recognition is an existential one.
+
+If Shepherd triggers fear, the player forgets him in a week.
+If Shepherd triggers recognition, the player carries him for years.
+
+The goal is not: "What a terrifying villain."
+The goal is: **"Oh god. I know that person. I might be that person."**
+
+That's the "day off" effect applied to a single character.
+Not sadness. Not fear. *Self-recognition.*
 
 ### The Mirror Moment
 
