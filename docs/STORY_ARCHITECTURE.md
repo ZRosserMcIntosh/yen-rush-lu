@@ -100,6 +100,23 @@ If Shepherd is logic without love, players feel **uneasy**.
 
 That's deeper. That lingers.
 
+### The Hindsight Test
+
+On a second playthrough, every Shepherd scene must read differently.
+His kindness in Chapter 3 becomes reconnaissance.
+His sacrifice in Chapter 11 becomes positioning.
+His advice in Chapter 13 becomes confession.
+His warmth becomes calculation.
+
+But — and this is critical — **it also still reads as genuine warmth.**
+Because it was. Shepherd didn't fake caring about the kids.
+He cared about them *and* decided one of them was an acceptable cost.
+Both things are true. That's what makes it devastating.
+
+Players should finish the game and argue:
+"Shepherd was a monster." vs "Shepherd was trying to save the others."
+If both sides have evidence, you've nailed it.
+
 ### Shepherd's Defining Lines:
 - Chapter 3: "You've got good kids, Drew. Hold onto that."
 - Chapter 11: "Sometimes protecting people means making choices they won't understand."
@@ -412,7 +429,12 @@ Drew notices. Nobody else does.
 **Chapter 24: "Undone"**
 - Shepherd makes a move. Not dramatic. Quiet.
 - A path is wrong. A door is locked from the outside.
-- Drew realizes first.
+- **Kimiru appears. Urgent. For the first time, not cryptic — desperate.**
+  "You need to leave. Now. Not tomorrow. Now."
+  But he can't say more. He can't name it. Some rule prevents him.
+  **The warning arrives too late.** Not because it wasn't given — because it wasn't clear enough.
+  That's the cruelest part. The guide *tried*. And it wasn't enough.
+- Drew realizes first. Not from Kimiru. From the look on Shepherd's face.
 - Drew: "Take the kids. Go."
 - Rush: "What about you?"
 - Drew doesn't answer with words. He pushes Rush toward the door.
@@ -456,6 +478,32 @@ In boardrooms. In divorces. In hospital hallways.
 From people who weren't wrong about the facts.
 Just wrong about what matters.
 
+### The Nature of the Betrayal
+
+Shepherd did not murder Drew.
+
+Shepherd made a **decision**.
+
+He weighed the kids' survival against Drew's life and chose the math.
+In his mind, Drew's idealism — his refusal to sacrifice, his insistence on saving everyone —
+was going to get them all killed. Ghost was coming regardless. The question was:
+who stands in the gap, and does everyone else get out?
+
+Shepherd decided Drew was the cost.
+He grieved it *before* he did it.
+He processed the loss in advance.
+And when the moment came, it was just... execution of a plan he'd already made peace with.
+
+That's why he's composed after. He's not a psychopath. He's a man who did the math
+and decided the answer was acceptable. He paid the cost in advance — in his own mind.
+The actual moment was a formality.
+
+**That's the most dangerous kind of antagonist.**
+Not evil. *Certain.*
+
+Players will argue online about whether Shepherd was right.
+If they do, you've nailed it.
+
 ### Chapter 27: "The Fall of Drew"
 
 Ghost is there.
@@ -470,13 +518,28 @@ Not slow motion.
 
 Just—
 
-*Silence.*
+**3-5 seconds of normalcy.**
+
+Wind.
+Ambient sound.
+A bird somewhere.
+Dust settling.
+
+Someone picks something up. Maybe Lu adjusts her sleeve. Maybe Yen blinks.
+
+Normal things. For just a moment. The world hasn't caught up yet.
+
+Then—
 
 **Rush** says: "Drew?"
+
+The way you'd wake someone up.
 
 Nothing.
 
 "Drew?"
+
+Still nothing. And now the normalcy is wrong. The silence isn't peaceful — it's *empty*.
 
 A beat.
 
